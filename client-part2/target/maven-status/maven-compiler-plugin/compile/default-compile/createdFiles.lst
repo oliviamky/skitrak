@@ -1,0 +1,9 @@
+IngestPath.class
+model/SwipeGen.class
+model/LiftRide.class
+util/ClientConfig.class
+util/Stats.class
+LeaderboardSubscriber.class
+model/ResponseMsg.class
+util/RequestMetric.class
+util/RequestStats.class
