@@ -1,8 +1,8 @@
-# CS6650 Assignment 1 — SkiTrak
+# SkiTrak - Part One
 
 ## Project Overview
 
-SkiTrak is a Java-based client-server system developed for CS6650 Distributed Systems Assignment 1. The project simulates ski lift swipe events, sends concurrent HTTP POST requests to a server deployed on AWS EC2, and receives synthetic leaderboard updates through persistent WebSocket connections.
+SkiTrak is a Java-based client-server system developed for Distributed Systems Assignment 1. The project simulates ski lift swipe events, sends concurrent HTTP POST requests to a server deployed on AWS EC2, and receives synthetic leaderboard updates through persistent WebSocket connections.
 
 The main objective is to evaluate HTTP ingest throughput, request latency, concurrency, and WebSocket push latency under different client thread configurations.
 
